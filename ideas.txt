@@ -1,0 +1,30 @@
+# Navigation
+
+Move mouse around and only do one raycast in that direction.
+Say the number of free blocks in each direction.
+Send a cursor in one direction. It moves along the path, telling you each time if there is a turn available on each
+    side of it.
+Instead of varying the volume to indicate distance, make it a beep that speeds up when a wall is close.
+Invert the near and far sounds.
+Maybe give the player all of these tools.
+Press a button to tell you the number of blocks in each direction in turn.
+Point the rangefinder tool in the direction that the player is moving.
+
+Point phone in direction rangefinder should point
+
+Footsteps
+Sound on collision with wall
+
+Play a sound when they move to a new cell
+
+A button to check four surrounding walls in turn
+
+Markers with text to speech
+
+Retrace steps
+
+# Goals
+
+Put in a random spot, figure out where you are.
+Don't hit walls.
+Get to the end.
